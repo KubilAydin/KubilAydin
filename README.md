@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kubilaydin" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="cengizcmataraci" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kubilaydin" target="blank" rel=”noopener”><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" height="40" width="40" /></a>
 
 <p>
   
